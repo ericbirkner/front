@@ -1,0 +1,52 @@
+body { background: #eee }
+
+.container-fluid { max-width: 1200px; }
+
+header {
+	background: #563d7c;
+	padding: 2em 1em;
+	color: #fff;
+	margin-bottom: 2em;
+
+}
+
+header h1 {
+	font-weight: 200;
+	text-align: center;
+}
+
+.carta {
+	margin-bottom: 10px;
+	box-shadow: none !important;
+	overflow: hidden;
+}
+
+.carta img {
+	width: 100%;
+}
+
+.carta a {
+	padding: 0;
+	margin: 0;
+	color: #563d7c;
+}
+
+
+
+.carta:hover{
+	opacity: 0.8;
+}
+
+.carta:hover a{
+	text-decoration: none;
+}
+
+.carta .card-block{
+	padding: 10px;
+  justify-content: center;
+	background: white;
+}
+
+.carta h4{
+	text-align: center;
+}
