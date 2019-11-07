@@ -1,5 +1,7 @@
 # front
 
+- instalar dependencias : npm install
+
 #ejecutar
 - npm start
 
